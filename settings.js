@@ -1,5 +1,5 @@
 const collectionInfo = {
-    name: "SUKI MOON NFT",
+    name: "AOTUVERSE",
     title: "{name}", 
     date: "13.06.2022",
     socialMedia: {
@@ -7,12 +7,12 @@ const collectionInfo = {
         twitter: "https://twitter.com/TrippinApeNFT",
     },
     medias: {
-        preview: "logo.jpg",
-	favicon: "logo.jpg",
+        preview: "bj.jpeg",
+	favicon: "logo.jpeg",
     },
     background: {
         type: "image",
-        image: "bj.jpg",
+        image: "gif.jpeg",
         video: "",
         color: "#4E4E6D",
     }

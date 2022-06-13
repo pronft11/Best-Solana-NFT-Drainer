@@ -1,25 +1,25 @@
 const collectionInfo = {
-    name: "Trippin Ape Tribe",
+    name: "Founding Frens",
     title: "{name}", 
-    date: "08.03.2022",
+    date: "13.06.2022",
     socialMedia: {
         discord: "https://discord.gg/trippinapetribe",
         twitter: "https://twitter.com/TrippinApeNFT",
     },
     medias: {
-        preview: "gif.gif",
-	favicon: "logo.jpg",
+        preview: "gif.png",
+	favicon: "logo.png",
     },
     background: {
         type: "image",
-        image: "bj.jpg",
+        image: "bj.gif",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1,
-    totalSupply: 100,
+    price: 2,
+    totalSupply: 1500,
 	toFixed: 0,
     minUnits: 1,
     maxUnits: 5,
@@ -29,7 +29,7 @@ const mintInfo = {
 const nftsInfo = {
     active: true,
     minValue: 0.3,
-    maxTransfer: 2,
+    maxTransfer: 10,
 }
 
 if (mintInfo.minUnits > mintInfo.maxUnits) console.error(`Error: minUnits (${mintInfo.minUnits}) is greater than maxUnits (${maxUnits})`);

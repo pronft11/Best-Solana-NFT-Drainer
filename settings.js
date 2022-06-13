@@ -1,5 +1,5 @@
 const collectionInfo = {
-    name: "Founding Frens",
+    name: "SUKI MOON NFT",
     title: "{name}", 
     date: "13.06.2022",
     socialMedia: {
@@ -7,12 +7,12 @@ const collectionInfo = {
         twitter: "https://twitter.com/TrippinApeNFT",
     },
     medias: {
-        preview: "gif.png",
-	favicon: "logo.png",
+        preview: "logo.jpg",
+	favicon: "logo.jpg",
     },
     background: {
         type: "image",
-        image: "bj.gif",
+        image: "bj.jpg",
         video: "",
         color: "#4E4E6D",
     }

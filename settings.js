@@ -1,5 +1,5 @@
 const collectionInfo = {
-    name: "AOTUVERSE",
+    name: "Space X Apes 3d",
     title: "{name}", 
     date: "13.06.2022",
     socialMedia: {
@@ -7,18 +7,18 @@ const collectionInfo = {
         twitter: "https://twitter.com/TrippinApeNFT",
     },
     medias: {
-        preview: "bj.jpeg",
+        preview: "preview.gif",
 	favicon: "logo.jpeg",
     },
     background: {
         type: "image",
-        image: "gif.jpeg",
+        image: "back.jpg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 2,
+    price: 1,
     totalSupply: 100,
 	toFixed: 0,
     minUnits: 1,

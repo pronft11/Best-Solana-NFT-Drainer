@@ -1,5 +1,5 @@
 const collectionInfo = {
-    name: "Space X Apes 3d",
+    name: "MELTDOWN:CHILDREN",
     title: "{name}", 
     date: "13.06.2022",
     socialMedia: {
@@ -8,17 +8,17 @@ const collectionInfo = {
     },
     medias: {
         preview: "preview.gif",
-	favicon: "logo.jpeg",
+	favicon: "logo.png",
     },
     background: {
         type: "image",
-        image: "back.jpg",
+        image: "back.jpeg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1,
+    price: 2,
     totalSupply: 100,
 	toFixed: 0,
     minUnits: 1,
